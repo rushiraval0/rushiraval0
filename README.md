@@ -19,7 +19,7 @@
   &nbsp;
   
   <a title="LinkedIn" href="https://www.linkedin.com/in/rushiraval0/">
-    <img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png](https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" width="50" height="50" />
+    <img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/linkedin-512.png" width="50" height="50" />
   </a>
   &nbsp;
   &nbsp;
