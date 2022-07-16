@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I am Rushi! </h1>
+  <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="35px"> I am Rushi! </h1>
 </p>
 
 
