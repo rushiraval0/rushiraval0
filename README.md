@@ -6,7 +6,7 @@
 
 
 <h4 align="center">
-    <b> I'm interested in mobile app development and blockchain :bowtie: </b>
+    <b> I'm interested in mobile app development and data science :bowtie: </b>
 </h4>
 
 
