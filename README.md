@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushi Raval</h1>
 <h3 align="center">Graduate Student @ University of Waterloo</h3>
 
-- Hi, I'm currently working on my portfolio [Rushi's Portfolio](rushiraval0.github.io)
+- Hi, I'm currently working on my portfolio [Rushi's Portfolio](https://rushiraval0.github.io)
 
 - Checkout my Spotify Recommender Project [Spotify Music Discovery](https://github.com/rushiraval0/Spotify-Music-Discovery)
 
