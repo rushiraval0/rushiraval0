@@ -3,10 +3,6 @@
 
 - Hi, I'm currently working on my first product!
 
-- Checkout my Spotify Recommender Project [Spotify Music Discovery](https://github.com/rushiraval0/Spotify-Music-Discovery)
-
-- Checkout my HybridClass, An Ed-Tech Android application [HybridClass](https://github.com/rushiraval0/HybridClass)
-
 - 📫 How to reach me **r3raval@uwaterloo.ca**
 
 <br>
